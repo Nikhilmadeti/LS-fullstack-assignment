@@ -27,3 +27,5 @@ HTML5: Semantic structure and content.
 CSS3 (Tailwind CSS via CDN): Styling, layout, and rapid responsive design implementation.
 
 JavaScript (ES6): Used for DOM manipulation, dynamic content display, and implementing the interactive Timeline Selector.
+
+drive link for video of website working: https://drive.google.com/file/d/1AoRM9Js3ZnQw4EgaGevdTxQgtyLKGitk/view?usp=drivesdk
